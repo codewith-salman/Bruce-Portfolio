@@ -3,11 +3,6 @@
 <br />
 <div align="center">
 
-<!-- 🔥 LOGO -->
-<img src="https://raw.githubusercontent.com/salman-webdevexp/assets/main/logo.png" alt="Bruce Portfolio Logo" width="120" />
-
-<br /><br />
-
 ## 🧑‍💼 Bruce – Personal Portfolio  
 A bold, modern, and fully responsive **Personal Portfolio Website UI** built using HTML, CSS, and JavaScript.  
 Designed to present professional skills, projects, and experience with a confident and clean visual identity.
