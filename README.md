@@ -1,6 +1,5 @@
 <div id="top"></div>
 
-<br />
 <div align="center">
 
 ## 🧑‍💼 Bruce – Personal Portfolio  
@@ -38,8 +37,7 @@ Perfect for:
 - Hero section with clear personal branding  
 - Projects and experience showcase  
 - Smooth hover effects and transitions  
-- Clean typography and spacing  
-- Easy to customize for any profession  
+- Clean typography and spacing   
 
 ---
 
