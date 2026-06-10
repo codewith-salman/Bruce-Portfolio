@@ -58,8 +58,6 @@ Ideal for:
 - Resume-style web portfolios  
 - UI layout and responsiveness practice  
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 ---
 
 ## ✨ Features
@@ -71,17 +69,13 @@ Ideal for:
 - Smooth hover effects and transitions  
 - Clean typography and spacing  
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 ---
 
 ## 🛠️ Built With
 
 - **HTML5**  
 - **CSS3**  
-- **JavaScript (Vanilla)**  
-
-<p align="right">(<a href="#top">back to top</a>)</p>
+- **JavaScript (Vanilla)** 
 
 ---
 
