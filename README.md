@@ -4,9 +4,9 @@
 <div align="center">
 
 <!-- 🔰 BADGES -->
-![GitHub repo size](https://img.shields.io/github/repo-size/codewith-salman/bruce-portfolio)
-![GitHub stars](https://img.shields.io/github/stars/codewith-salman/bruce-portfolio?style=social)
-![GitHub forks](https://img.shields.io/github/forks/codewith-salman/bruce-portfolio?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/codewith-salman/Bruce-Portfolio)
+![GitHub stars](https://img.shields.io/github/stars/codewith-salman/Bruce-Portfolio?style=social)
+![GitHub forks](https://img.shields.io/github/forks/codewith-salman/Bruce-Portfolio?style=social)
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Project-brightgreen?style=for-the-badge&logo=vercel)](https://bruce-portfolio-ten.vercel.app/)
 
