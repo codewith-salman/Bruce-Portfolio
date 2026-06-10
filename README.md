@@ -65,8 +65,7 @@ Ideal for:
 - Professional and modern UI design  
 - Hero section with clear personal branding  
 - Projects and experience showcase  
-- Smooth hover effects and transitions  
-- Clean typography and spacing  
+- Smooth hover effects and transitions   
 
 ---
 
