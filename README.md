@@ -55,7 +55,6 @@ Ideal for:
 - Developer and engineer portfolios  
 - Professional personal websites  
 - Freelancer and consultant profiles  
-- Resume-style web portfolios  
 - UI layout and responsiveness practice  
 
 ---
